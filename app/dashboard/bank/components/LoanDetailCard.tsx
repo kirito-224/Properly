@@ -1,0 +1,1 @@
+export default function LoanDetailCard(){ return null }

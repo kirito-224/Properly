@@ -1,0 +1,1 @@
+export default function Page(){ return <div>Bank Account Details</div> }
